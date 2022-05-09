@@ -23,7 +23,7 @@ This process should take 7 minutes or less.
 
 # **II. Downloading the Sniper**
 
-Before downloading the sniper, install Python on your device if you haven't already. You may choose to skip this step and revisit it later if you are having issues. Python can be downloaded [here](https://www.python.org/downloads/), any version above 3.7 should work.
+Before downloading the sniper, install GOLANG on your device if you haven't already. You may choose to skip this step and revisit it later if you are having issues. GOLANG can be downloaded [here](https://go.dev/dl/).
 
 > While it might seem normal to download the sniper via the `Download ZIP` button, this is not the case.
 
