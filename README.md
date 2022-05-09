@@ -22,8 +22,17 @@ MCSniperGO is a sniper designed in GOLANG. It works splendidly and can be downlo
 
 # **II. Downloading the Sniper**
 
-> While it might seem normal to download the `Code` via the `Download ZIP` button, this is not the case.
+Before downloading the sniper, install Python on your device if you haven't already. You may choose to skip this step and revisit it later if you are having issues. Python can be downloaded [here](https://www.python.org/downloads/), any version above 3.7 should work.
+
+> While it might seem normal to download the sniper via the `Download ZIP` button, this is not the case.
 
 Scroll down to the `README.md` section of the repository to locate the `Releases` hyperlink.
 
 ![https://i.gyazo.com/f0e00aac7f1e419401c263ff70d8a92d.png](https://i.gyazo.com/f0e00aac7f1e419401c263ff70d8a92d.png)
+
+This guide was strictly made for Windows devices. Select one of the Windows downloads to continue with the installation:
+
+![https://i.gyazo.com/b740decb7afe499e6ab5c7f947e77f7c.png](https://i.gyazo.com/b740decb7afe499e6ab5c7f947e77f7c.png)
+
+
+
