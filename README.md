@@ -113,3 +113,7 @@ Why does it say my account could not be authenticated?
 Several reasons... actually.
 You could've put in the `auth token` incorrectly. Did you accidentally include the `bearer` part? Or did you forget to add `:bearer` after? **Important**: Your `auth token` expires after 24 hours. You'll have to fetch a new one each day you snipe and follow the same steps in section `IV`.
 
+```sh
+How did someone beat me!! I'm using the bot and I didn't get the name!!
+```
+You won't get your dream name first try. To be completely honest, expect *lots* of failure. Sniping is mostly luck + the amount of accounts you use. Most big snipers use 50+ accounts, so your chances are slim. That's not to say "don't try", though. Again, if you want to seriously get into sniping, check out [my guide](https://github.com/NameMC/BASIC-SNIPING-GUIDE).
