@@ -73,7 +73,7 @@ Right-click and press `inspect`. By default, you should be on the `Elements` tab
 
 > Step 2: Refresh your page
 
-After your page has finished refreshing, select the `Profile` request. Oh, the confusion. Yes, there's two. I tend to select the lower one on the list, this usually tends to be the correct one.
+After your page has finished refreshing, select the `Profile` request. Oh, the confusion. Yes, there's two. I tend to select the lower one on the list, this usually tends to be the correct one. Make sure you're on the `Fetch/XHR` filter to locate it quickly.
 
 ![https://i.gyazo.com/8e1109642fa98adb1a93a9512ed7d81f.png](https://i.gyazo.com/8e1109642fa98adb1a93a9512ed7d81f.png)
 
@@ -83,6 +83,6 @@ After your page has finished refreshing, select the `Profile` request. Oh, the c
 
 You'll know if it's the correct `Profile` request if you can locate your `auth token` in it. Under `request headers` you will find your `auth token`. Make sure NOT to copy the "auth" part of the `auth token`. Also make sure to keep it private as this gives anyone access to your account with the right tools.
 
-~[https://i.gyazo.com/73cc87a4487228cc497fac0ee6f3ddb3.png](https://i.gyazo.com/73cc87a4487228cc497fac0ee6f3ddb3.png)
+![https://i.gyazo.com/73cc87a4487228cc497fac0ee6f3ddb3.png](https://i.gyazo.com/73cc87a4487228cc497fac0ee6f3ddb3.png)
 
 
