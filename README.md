@@ -19,6 +19,8 @@ A rather short but comprehensive guide about installing "MCSniperGO" (Credit: Kq
 
 MCSniperGO is a sniper designed in GOLANG. It works splendidly and can be downloaded for free [here](https://github.com/Kqzz/MCsniperGO). This sniper was developed by Kqzz so all credit goes to him and other contributors listed on the repository. Although the sniper does indeed have a guide in its README.md, I wanted to make a shorter and more concise one for newer snipers. This guide was made strictly for Windows users. Warning however, Mojang has publicly announced that they [condemn sniping using bots or other automated tools](https://twitter.com/Mojang_Ined/status/1448652087043133440) so proceed with caution. Mojang doesn't strictly enforce this decision but it's still good to be cautious nonetheless.
 
+This process should take 7 minutes or less.
+
 
 # **II. Downloading the Sniper**
 
@@ -49,7 +51,7 @@ You should now have an `.exe` file. Do not interact with it yet; first, you'll w
 Your sniper is ready to be used.
 
 -------------------------------------------
-# **IV. Authenticating your account**
+# **IV. Authenticating your Account**
 
 > The sniper requires access to your account in order to snipe. There is no way for a sniper to make a name-change request without access to your account.
 
@@ -84,5 +86,17 @@ After your page has finished refreshing, select the `Profile` request. Oh, the c
 You'll know if it's the correct `Profile` request if you can locate your `auth token` in it. Under `request headers` you will find your `auth token`. Make sure NOT to copy the `bearer` part of the `auth token`. Also make sure to keep it private as this gives anyone access to your account with the right tools.
 
 ![https://i.gyazo.com/73cc87a4487228cc497fac0ee6f3ddb3.png](https://i.gyazo.com/73cc87a4487228cc497fac0ee6f3ddb3.png)
+
+> Step 4: Launch the sniper
+
+Open the `accounts.txt` file in the folder you made earlier. Copy your `auth token` and add `:bearer` after it. Yes, include the colon (`:`). Save and close the notepad. You're now ready to open the sniper; double-click the `.exe` and input the name you want to snipe!
+
+-------------------------------------------
+
+# **V. Conclusion**
+
+You're now ready to attempt sniping names! But oh, what do you put for the `offset`? For now, you could put `0`. If you do want to learn how to effectively use `offset`, check out sections `VIII` and `IX` in my comprehensive `Beginner's Sniping Guide` found [here](https://github.com/NameMC/BASIC-SNIPING-GUIDE).
+
+Have a splendid day!
 
 
