@@ -30,9 +30,16 @@ Scroll down to the `README.md` section of the repository to locate the `Releases
 
 ![https://i.gyazo.com/f0e00aac7f1e419401c263ff70d8a92d.png](https://i.gyazo.com/f0e00aac7f1e419401c263ff70d8a92d.png)
 
+-------------------------------------------
 This guide was strictly made for Windows devices. Select one of the Windows downloads to continue with the installation:
 
 ![https://i.gyazo.com/b740decb7afe499e6ab5c7f947e77f7c.png](https://i.gyazo.com/b740decb7afe499e6ab5c7f947e77f7c.png)
+
+-------------------------------------------
+
+You should now have an `.exe` file. Do not interact with it yet; first, you'll want to make a folder for it. Right-click on your desktop and create a new folder. Name it whatever you wish. Place the `.exe` file in the folder and then open it. It should look like this (or similar):
+
+![https://i.gyazo.com/5ab1a1c49c7268844fd055c10ea82ded.png](https://i.gyazo.com/5ab1a1c49c7268844fd055c10ea82ded.png)
 
 
 
