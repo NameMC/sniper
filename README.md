@@ -39,7 +39,7 @@ This guide was strictly made for Windows devices. Select one of the Windows down
 -------------------------------------------
 # **III. Preparing the Sniper**
 
-You should now have an `.exe` file. Do not interact with it yet; first, you'll want to make a folder for it. Right-click on your desktop and create a new folder. Name it whatever you wish. Place the `.exe` file in the folder and then double-click it. It should look like this (or similar):
+You should now have an `.exe` file. Do not interact with it yet; first, you'll want to make a folder for it. Right-click on your desktop and create a new folder. Name it whatever you wish. Place the `.exe` file in the folder and then double-click it. Close the program and analyze your folder. It should look like this (or similar):
 
 ![https://i.gyazo.com/5ab1a1c49c7268844fd055c10ea82ded.png](https://i.gyazo.com/5ab1a1c49c7268844fd055c10ea82ded.png)
 
@@ -117,3 +117,8 @@ You could've put in the `auth token` incorrectly. Did you accidentally include t
 How did someone beat me!! I'm using the bot and I didn't get the name!!
 ```
 You won't get your dream name first try. To be completely honest, expect *lots* of failure. Sniping is mostly luck + the amount of accounts you use. Most big snipers use 50+ accounts, so your chances are slim. That's not to say "don't try", though. Again, if you want to seriously get into sniping, check out [my guide](https://github.com/NameMC/BASIC-SNIPING-GUIDE).
+
+```sh
+I want the name "Dog" but it won't let me have it! 
+```
+This is a name *sniper*, not name *getter*. What I mean is the program attempts to claim *dropping* usernames which can be found on [NameMC](https://namemc.com/minecraft-names) or if you like 3-character names specifically, on [3NAME](https://3name.xyz/list).
