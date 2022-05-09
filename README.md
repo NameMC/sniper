@@ -9,15 +9,14 @@
 ```
 
 ```sh
-A rather short but comprehensive guide about installing "MCSniperGO" (Credit: Kqzz) on Windows...
-...with minimal technological expertise.
+A rather short but comprehensive guide about installing "MCSniperGO" on Windows with minimal technological expertise.
 ```
 
 -------------------------------------------
 
 # **I. Introduction**
 
-MCSniperGO is a sniper designed in GOLANG. It works splendidly and can be downloaded for free [here](https://github.com/Kqzz/MCsniperGO). This sniper was developed by Kqzz so all credit goes to him and other contributors listed on the repository. Although the sniper does indeed have a guide in its README.md, I wanted to make a shorter and more concise one for newer snipers. This guide was made strictly for Windows users. Warning however, Mojang has publicly announced that they [condemn sniping using bots or other automated tools](https://twitter.com/Mojang_Ined/status/1448652087043133440) so proceed with caution. Mojang doesn't strictly enforce this decision but it's still good to be cautious nonetheless.
+MCSniperGO is a sniper designed in GOLANG. It works splendidly and can be downloaded for free [here](https://github.com/Kqzz/MCsniperGO). This sniper was developed by Kqzz so all credit goes to him and all other contributors listed on the repository. Although the sniper does indeed have a guide in its README.md, I wanted to make a shorter and more concise one for newer snipers. This guide was made strictly for Windows users. Warning however, Mojang has publicly announced that they [condemn sniping using bots or other automated tools](https://twitter.com/Mojang_Ined/status/1448652087043133440) so proceed with caution. Mojang doesn't strictly enforce this decision but it's still good to be cautious nonetheless.
 
 This process should take 7 minutes or less.
 
