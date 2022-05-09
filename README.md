@@ -9,7 +9,7 @@
 ```
 
 ```sh
-A rather short but comprehensive guide about installing "MCSniperGO" on Windows with minimal technological expertise.
+A rather short but comprehensive guide about installing "MCSniperGO" on Windows.
 ```
 
 -------------------------------------------
@@ -121,4 +121,4 @@ You won't get your dream name first try. To be completely honest, expect *lots* 
 ```sh
 I want the name "Dog" but it won't let me have it! 
 ```
-This is a name *sniper*, not name *getter*. What I mean is the program attempts to claim *dropping* usernames which can be found on [NameMC](https://namemc.com/minecraft-names) or if you like 3-character names specifically, on [3NAME](https://3name.xyz/list).
+This is a name *sniper*, not name *getter*. What I mean is the program attempts to claim *dropping* usernames which can be found on [NameMC](https://namemc.com/minecraft-names) or if you like 3-character names specifically, on [3NAME](https://3name.xyz/list). You cannot claim already taken names.
