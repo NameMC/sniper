@@ -81,7 +81,7 @@ After your page has finished refreshing, select the `Profile` request. Oh, the c
 
 > Step 3: Fetch your `auth token`
 
-You'll know if it's the correct `Profile` request if you can locate your `auth token` in it. Under `request headers` you will find your `auth token`. Make sure NOT to copy the "auth" part of the `auth token`. Also make sure to keep it private as this gives anyone access to your account with the right tools.
+You'll know if it's the correct `Profile` request if you can locate your `auth token` in it. Under `request headers` you will find your `auth token`. Make sure NOT to copy the `bearer` part of the `auth token`. Also make sure to keep it private as this gives anyone access to your account with the right tools.
 
 ![https://i.gyazo.com/73cc87a4487228cc497fac0ee6f3ddb3.png](https://i.gyazo.com/73cc87a4487228cc497fac0ee6f3ddb3.png)
 
