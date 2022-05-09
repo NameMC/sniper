@@ -61,7 +61,7 @@ There are two approaches to getting your `auth token`. Approach 1 can be done by
 
 The second approach (which I tend to use) involves a quick manual fetching of the `auth token`. 
 
-> Step 1: Open Minecraft.net
+### **Step 1: Open Minecraft.net**
 
 ![https://i.gyazo.com/9722ad75585e658a094f033a2c43d93a.png](https://i.gyazo.com/9722ad75585e658a094f033a2c43d93a.png)
 
@@ -73,7 +73,7 @@ Right-click and press `inspect`. By default, you should be on the `Elements` tab
 
 -------------------------------------------
 
-> Step 2: Refresh your page
+### **Step 2: Refresh your page**
 
 After your page has finished refreshing, select the `Profile` request. Oh, the confusion. Yes, there's two. I tend to select the lower one on the list, this usually tends to be the correct one. Make sure you're on the `Fetch/XHR` filter to locate it quickly.
 
@@ -81,13 +81,13 @@ After your page has finished refreshing, select the `Profile` request. Oh, the c
 
 -------------------------------------------
 
-> Step 3: Fetch your `auth token`
+### **Step 3: Fetch your `auth token`**
 
 You'll know if it's the correct `Profile` request if you can locate your `auth token` in it. Under `request headers` you will find your `auth token`. Make sure NOT to copy the `bearer` part of the `auth token`. Also make sure to keep it private as this gives anyone access to your account with the right tools.
 
 ![https://i.gyazo.com/73cc87a4487228cc497fac0ee6f3ddb3.png](https://i.gyazo.com/73cc87a4487228cc497fac0ee6f3ddb3.png)
 
-> Step 4: Launch the sniper
+### **Step 4: Launch the sniper**
 
 Open the `accounts.txt` file in the folder you made earlier. Copy your `auth token` and add `:bearer` after it. Yes, include the colon (`:`). Save and close the notepad. You're now ready to open the sniper; double-click the `.exe` and input the name you want to snipe!
 
@@ -97,6 +97,6 @@ Open the `accounts.txt` file in the folder you made earlier. Copy your `auth tok
 
 You're now ready to attempt sniping names! But oh, what do you put for the `offset`? For now, you could put `0`. If you do want to learn how to effectively use `offset`, check out sections `VIII` and `IX` in my comprehensive `Beginner's Sniping Guide` found [here](https://github.com/NameMC/BASIC-SNIPING-GUIDE).
 
-Have a splendid day!
+Have an amazing day!
 
 
