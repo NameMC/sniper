@@ -24,6 +24,6 @@ MCSniperGO is a sniper designed in GOLANG. It works splendidly and can be downlo
 
 > While it might seem normal to download the `Code` via the `Download ZIP` button, this is not the case.
 
-You will instead want to navigate to the `Releases` page as found below:
+Scroll down to the `README.md` section of the repository to locate the `Releases` hyperlink.
 
 ![https://i.gyazo.com/f0e00aac7f1e419401c263ff70d8a92d.png](https://i.gyazo.com/f0e00aac7f1e419401c263ff70d8a92d.png)
