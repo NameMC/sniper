@@ -98,4 +98,18 @@ You're now ready to attempt sniping names! But oh, what do you put for the `offs
 
 Have an amazing day!
 
+## - FAQs -
+
+> This is here in case you had any questions... there are likely answers
+
+```sh
+Does the sniper steal my account?! How do I know if it's safe?
+```
+You can download the source code [right on the Github repository](https://github.com/Kqzz/MCsniperGO). You can skim through it and clearly see that it doesn't compromise your account's security. If you don't trust it regardless of that, just don't use the sniper.
+
+```sh
+Why does it say my account could not be authenticated?
+```
+Several reasons... actually.
+You could've put in the `auth token` incorrectly. Did you accidentally include the `bearer` part? Or did you forget to add `:bearer` after? **Important**: Your `auth token` expires after 24 hours. You'll have to fetch a new one each day you snipe and follow the same steps in section `IV`.
 
